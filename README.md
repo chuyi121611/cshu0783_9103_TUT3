@@ -1,6 +1,6 @@
 # cshu0783_9103_TUT3
 
-#Quiz 8:
+# Quiz 8:
 
 Part 1: Imaging Technique Inspiration
 
