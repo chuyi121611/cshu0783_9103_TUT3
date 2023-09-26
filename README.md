@@ -18,4 +18,4 @@ Technique: Blend Modes in CSS
 
 Explanation: CSS provides various blend modes, like multiply, screen, overlay, etc., which can be used to achieve double exposure-like effects in web design. With the right images and the use of these blend modes, we can create a double exposure effect that is responsive and interactive.
 
-[Link video example](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
+[Link for video example](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
