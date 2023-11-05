@@ -1,9 +1,9 @@
 # cshu0783_9103_TUT3
 # Main priject:
 
-1. Hover Effect
+1. Hover Effect:
    The color of certain rectangles changes when the mouse hovers over them.(only the big rectangles)
-2. Dynamic Drawing
+2. Dynamic Drawing:
    The canvas is redrawn every time the mouse moves by calling the redraw function. This means that the hover effect is real-time, as the canvas recalculates which rectangles should 
    change color based on the new position of the mouse each time it moves.
    
